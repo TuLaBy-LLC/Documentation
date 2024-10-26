@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Dashboard**: [TuLaBy Dashboard](https://tulaby.runasp.net/)
 - **WebAPI**: [TuLaBy WebAPI](https://tulaby-api.runasp.net/)
-- **WebAPI**: [TuLaBy Front-End (Student Platform)](https://tulaby.netlify.app/)
+- **Student Platform**: [TuLaBy Front-End](https://tulaby.netlify.app/)
